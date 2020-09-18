@@ -5,7 +5,7 @@
 // 
 // Create Date: 09/07/2020 06:20:43 PM
 // Design Name: 
-// Module Name: circular_left_rotate
+// Module Name: circular_right_rotate
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module circular_left_rotate(
+module circular_right_rotate(
     input wire[31:0] a,
     input wire[31:0] b,
     output wire[31:0] o
